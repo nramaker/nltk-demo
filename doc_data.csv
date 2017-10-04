@@ -1,0 +1,3 @@
+label,product_ids,numbers,invoice_ids,dates,addresses,nouns,verbs, small_blocks, med_blocks, large_blocks, total_words
+invoice,3,40,1,2,2,17,15,25,9,7,150
+email,1,0,1,1,0,40,30,3,3,3,450
